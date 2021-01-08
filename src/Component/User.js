@@ -20,8 +20,8 @@ const User = (props) => {
                 <h1>Food</h1>
                 {
                     //ternary operators
-                     familiar ? <p>I will buy food for you. </p> : <p>Lets eat his his whose whose </p>
-
+                     familiar ? <p>I will buy food for you. </p> : <p>Lets eat his his whose whose !</p>
+                    
                 }
 
             </div>
